@@ -1,3 +1,5 @@
+![banner](banner.svg)
+
 ## Hi there 👋
 
 <!--
